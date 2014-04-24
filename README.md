@@ -16,7 +16,7 @@ I started it to help me test how mature is the haxe-phaser project. As soon as I
 
     * Samples ported from Phaser version 2.0.3
     * Not all examples work. 99% of the time it's not due a bug in them. It's due a bug in haxe-phaser (please, remember the main goal of this project is to find bugs in haxe-phaser).
-
+    * You can see the status of ported samples [here][porting-status]
 
 
 Contributing
@@ -46,3 +46,4 @@ All examples are released under the [MIT License](http://opensource.org/licenses
 [phaser]: http://phaser.io
 [haxe-phaser]: https://github.com/Blank101/haxe-phaser
 [haxe]: http://haxe.org/
+[porting-status]: https://github.com/plicatibu/haxe-phaser-examples/blob/master/porting-status.md
