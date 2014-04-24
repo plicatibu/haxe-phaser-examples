@@ -36,11 +36,6 @@ All examples are released under the [MIT License](http://opensource.org/licenses
 
 
 
-License
--------
-
-Phaser and all examples are released under the [MIT License](http://opensource.org/licenses/MIT). This does not include any assets (art, music, sounds)
-
 [issues]: https://github.com/plicatibu/haxe-phaser-examples/issues
 [phaser]: http://phaser.io
 [haxe-phaser]: https://github.com/Blank101/haxe-phaser
