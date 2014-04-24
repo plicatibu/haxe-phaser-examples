@@ -3,13 +3,19 @@ Haxe - Phaser Examples
 
 This repository contains the port of official Phaser Examples to Haxe language repository.
 
-I started it to help me test how mature is the haxe-phaser project.
+I started it to help me test how mature is the haxe-phaser project. As soon as I find a bug I submit it to haxe-phaser maintainer.
 
 [Phaser][phaser] is a fast, free and fun open source game framework for making desktop and mobile browser HTML5 games.
 
 [Haxe][haxe] is one of the best programming languages available.
 
 [Haxe-Phaser][haxe-phaser] is a project that lets you develop using Phase framework using the Haxe programming language.
+
+
+**Note:** 
+
+    * Samples ported from Phaser version 2.0.3
+    * Not all examples work. 99% of the time it's not due a bug in them. It's due a bug in haxe-phaser (please, remember the main goal of this project is to find bugs in haxe-phaser).
 
 
 
