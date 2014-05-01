@@ -31,7 +31,7 @@ In case you want to port a sample to Haxe, please, pick one which status is _**n
 | ------- | ----- | ------ |
 | 2.0.3 | animation events | working |
 | 2.0.3 | change texture on click | working |
-| 2.0.3 | group creation | not working |
+| 2.0.3 | group creation | working |
 | 2.0.3 | local json object | working |
 | 2.0.3 | looped animation | working |
 | 2.0.3 | multiple anims | not working |
@@ -81,10 +81,10 @@ In case you want to port a sample to Haxe, please, pick one which status is _**n
 ## audio
 | Version |Sample | Status |
 | ------- | ----- | ------ |
-| 2.0.3 | audio sprite | not working |
+| 2.0.3 | audio sprite | working |
 | 2.0.3 | loop | working |
 | 2.0.3 | pause and resume | working |
-| 2.0.3 | play music | not working |
+| 2.0.3 | play music | working |
 | 2.0.3 | protracker | not ported |
 
 ## buttons
@@ -118,7 +118,7 @@ In case you want to port a sample to Haxe, please, pick one which status is _**n
 | Version |Sample | Status |
 | ------- | ----- | ------ |
 | 2.0.3 | alpha mask | working |
-| 2.0.3 | bitmapdata draw | not working |
+| 2.0.3 | bitmapdata draw | working |
 | 2.0.3 | bitmapdata wobble | not ported |
 | 2.0.3 | fullscreen buttons | not ported |
 | 2.0.3 | fullscreen | not ported |

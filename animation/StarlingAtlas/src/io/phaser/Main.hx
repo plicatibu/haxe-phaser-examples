@@ -45,7 +45,7 @@ class Main
 		octopus.animations.play('swim', 30, true);
 
 		//  Bob the octopus up and down with a tween
-		game.add.tween(octopus).to({ y: 300 }, 2000, Easing.Quadratic.InOut, true, 0, 1000, true);
+		game.add.tween(octopus).to({ y: 300 }, 2000, Quadratic.InOut, true, 0, 1000, true);
 	}
 
 	static function main() 

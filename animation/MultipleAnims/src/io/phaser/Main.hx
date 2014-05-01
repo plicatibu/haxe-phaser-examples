@@ -93,10 +93,10 @@ class Main
 
 		// to: function ( properties, duration, ease, autoStart, delay, repeat, yoyo ) {
 
-		game.add.tween(purpleFish).to({ x: -200 }, 7500, Easing.Quadratic.InOut, true, 0, 1000, false);
-		game.add.tween(octopus).to({ y: 530 }, 2000, Easing.Quadratic.InOut, true, 0, 1000, true);
-		game.add.tween(greenJellyfish).to({ y: 250 }, 4000, Easing.Quadratic.InOut, true, 0, 1000, true);
-		game.add.tween(jellyfish).to( { y: 100 }, 8000, Easing.Quadratic.InOut, true, 0, 1000, true);
+		game.add.tween(purpleFish).to({ x: -200 }, 7500, Quadratic.InOut, true, 0, 1000, false);
+		game.add.tween(octopus).to({ y: 530 }, 2000, Quadratic.InOut, true, 0, 1000, true);
+		game.add.tween(greenJellyfish).to({ y: 250 }, 4000, Quadratic.InOut, true, 0, 1000, true);
+		game.add.tween(jellyfish).to( { y: 100 }, 8000, Quadratic.InOut, true, 0, 1000, true);
 	}
 
 	static function main() 

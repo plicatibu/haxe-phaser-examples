@@ -40,7 +40,7 @@ class Main
 
 		sprite.animations.play('walk', 50, true);
 
-		game.add.tween(sprite).to({ x: game.width }, 10000, Easing.Linear.None, true);
+		game.add.tween(sprite).to({ x: game.width }, 10000, Linear.None, true);
 	}
 
 	//  update isn't called until 'create' has completed. If you need to process stuff before that point (i.e. while the preload is still happening)
